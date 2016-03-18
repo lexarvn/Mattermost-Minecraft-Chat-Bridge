@@ -1,2 +1,6 @@
 */.svn/*
 */.gitignore
+CMakeCache.txt
+CMakeFiles/*
+Makefile
+cmake_install.cmake

@@ -1,0 +1,10 @@
+{
+  "port":8087,
+  "threads":1,
+  "token":"<outgoing webhook token>",
+  "webhook":"https://mattermost.mydomain.com/hooks/<incoming webhook key>",
+  "minecraft_log":"/home/minecraft/logs/latest.log",
+  "minecraft_service":"minecraft",
+  "minecraft_to_mattermost_prefix":"minecraft",
+  "mattermost_to_minecraft_prefix":"mattermost"
+}

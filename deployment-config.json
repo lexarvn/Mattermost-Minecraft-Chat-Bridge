@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "192.168.0.2",
+    "username": "jafarb",
+    "password": "satsushi!90",
+    "port": 22,
+    "remotePath": "/home/matter-bots/Mattermost-Minecraft-Chat-Bridge",
+    "uploadOnSave": true
+}
